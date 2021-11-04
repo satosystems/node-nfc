@@ -1,0 +1,7 @@
+{
+  "name": "node-nfc",
+  "version": "0.1.0",
+  "main": "src/main.js",
+  "author": "Satoshi Ogata",
+  "license": "BSD-3-Clause"
+}
